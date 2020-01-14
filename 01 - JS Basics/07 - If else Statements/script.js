@@ -1,5 +1,4 @@
 // if else statement
-
 var firstName = 'John';
 var civilStatus = 'married';
 
@@ -11,18 +10,12 @@ if (civilStatus === 'married') {
 
 
 
-
 var isMarried = false;
 if (isMarried) {
     console.log(firstName + ' is married');
 } else {
     console.log(firstName + ' will hopefull marry soon :)');
 }
-
-
-
-
-
 
 
 
