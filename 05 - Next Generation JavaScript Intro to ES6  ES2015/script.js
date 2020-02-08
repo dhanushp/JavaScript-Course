@@ -1,5 +1,7 @@
 // Lecture: Let and Const
 
+
+/*
 // ES5
 var name5 = 'Jane Smith';
 var age5 = 23;
@@ -20,3 +22,4 @@ for (let i = 0; i<5; i++) {
 }
 
 console.log(i);
+*/
