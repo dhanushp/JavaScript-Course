@@ -23,3 +23,15 @@ for (let i = 0; i<5; i++) {
 
 console.log(i);
 */
+
+const box6 = {
+    color: 'green',
+    position: 1,
+    clickme: function() {
+        document.querySelector('.green').addEventListener('click', () => {
+            var str = `This is box number ${this.position} and it's color is ${this.color}`;
+            alert(str);
+        });
+    }
+}
+box6.clickme();
