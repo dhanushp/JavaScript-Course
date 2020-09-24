@@ -1,6 +1,6 @@
 // Lecture: Let and Const
 
-
+//
 /*
 // ES5
 var name5 = 'Jane Smith';
